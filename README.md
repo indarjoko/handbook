@@ -1,2 +1,2 @@
 # handbook
-Dokumentasi dan panduan ringkas seputar Git oleh Komunitas Git Indonesia.
+Panduan bagi mereka yang baru mengenal Git.
